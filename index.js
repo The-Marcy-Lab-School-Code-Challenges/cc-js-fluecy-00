@@ -1,3 +1,1 @@
-function nameOfFunction(){
-  
-}
+//Write code here 
