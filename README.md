@@ -18,12 +18,14 @@
 
 3. Write a function called `average` that takes an array of numbers and returns the average of the numbers.
 
-4. Create an object called `player` based on your favorite athlete. Add a `name` property, an `age` property, a `sport` property, and a method called `sayName` that logs the player's name to the console.
+4. Write a function called `removeVowels` that takes a string and returns the string with all vowels (upper and lowercase) removed.
 
-5. Loop over an object and log all properties and values to the console.
+5. Write a function called `makeUpper` that takes an array of words and returns a new array with all of the original words uppercased.
 
-6. Write a function called `removeVowels` that takes a string and returns the string with all vowels (upper and lowercase) removed.
+6. Write a function called `isAllTruthy` that takes an array and returns `true` only if ALL elements in the array are truthy.
 
-7. Write a function called `makeUpper` that takes an array of words and returns a new array with all of the original words uppercased.
+### Bonus
 
-8. Write a function called `isAllTruthy` that takes an array and returns `true` only if ALL elements in the array are truthy.
+7. Create an object called `player` based on your favorite athlete. Add a `name` property, an `age` property, a `sport` property, and a method called `sayName` that logs the player's name to the console.
+
+8. Loop over an object and log all properties and values to the console.
