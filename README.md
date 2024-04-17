@@ -26,6 +26,4 @@
 
 ### Bonus
 
-7. Create an object called `player` based on your favorite athlete. Add a `name` property, an `age` property, a `sport` property, and a method called `sayName` that logs the player's name to the console.
-
 8. Loop over an object and log all properties and values to the console.
