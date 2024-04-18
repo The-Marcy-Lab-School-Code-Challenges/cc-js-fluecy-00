@@ -14,7 +14,7 @@
 
 **You may use built-in methods.** 
 
-1. What does the expression [`1, 3, 5] === [1, 3, 5]` evaluate to AND **why**?
+1. What does the expression `[1, 3, 5] === [1, 3, 5]` evaluate to AND **why**?
 2. Write a function named `onlyOdd` that takes in an array of numbers and returns a new array consisting of only odd numbers.
 3. Write a function named `reverseWord` that takes in a string and returns a string with its characters in reverse.
 4. Write a function named `average` that returns the average(a single number) of an array of numbers.
